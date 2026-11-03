@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-11-03T08:05:21Z",
+  "kpi_label": "% of postings mentioning any cloud provider (AWS/Azure/GCP)",
+  "kpi_value": 0.167,
+  "n_postings_analyzed": 12,
+  "n_matching": 2,
+  "matching_titles": [
+    "DevOps",
+    "L2 -Desktop Support Engineer- French Fluent"
+  ]
+}
