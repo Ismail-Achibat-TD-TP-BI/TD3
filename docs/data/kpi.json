@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-11-03T07:42:29Z",
+  "kpi_label": "% of postings mentioning 'python'",
+  "kpi_value": 0.167,
+  "n_postings_analyzed": 12,
+  "n_matching": 2,
+  "top_skills": [
+    {
+      "skill": "AI",
+      "count": 4
+    },
+    {
+      "skill": "computer vision",
+      "count": 2
+    },
+    {
+      "skill": "generative AI",
+      "count": 2
+    },
+    {
+      "skill": "Python",
+      "count": 2
+    },
+    {
+      "skill": "360\u00b0 video",
+      "count": 1
+    },
+    {
+      "skill": "software engineering",
+      "count": 1
+    },
+    {
+      "skill": "HIL",
+      "count": 1
+    },
+    {
+      "skill": "MATLAB",
+      "count": 1
+    },
+    {
+      "skill": "CAPL",
+      "count": 1
+    },
+    {
+      "skill": "C#",
+      "count": 1
+    }
+  ],
+  "avg_skills_per_posting": 5.67
+}
